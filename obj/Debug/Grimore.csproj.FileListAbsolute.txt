@@ -1,0 +1,9 @@
+C:\Users\Raspet\Documents\SharpDevelop Projects\Grimore\Grimore\bin\Debug\Grimore.exe.config
+C:\Users\Raspet\Documents\SharpDevelop Projects\Grimore\Grimore\bin\Debug\Grimore.exe
+C:\Users\Raspet\Documents\SharpDevelop Projects\Grimore\Grimore\bin\Debug\Grimore.pdb
+C:\Users\Raspet\Documents\SharpDevelop Projects\Grimore\Grimore\obj\Debug\Grimore.csprojResolveAssemblyReference.cache
+C:\Users\Raspet\Documents\SharpDevelop Projects\Grimore\Grimore\obj\Debug\Grimore.exe
+C:\Users\Raspet\Documents\SharpDevelop Projects\Grimore\Grimore\obj\Debug\Grimore.pdb
+C:\Users\Raspet\Documents\SharpDevelop Projects\Grimore\Grimore\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Raspet\Documents\SharpDevelop Projects\Grimore\Grimore\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Raspet\Documents\SharpDevelop Projects\Grimore\Grimore\bin\Debug\Newtonsoft.Json.xml
